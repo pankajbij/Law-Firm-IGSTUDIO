@@ -1,0 +1,12 @@
+.faqWrapper{
+    margin-block: 100px;;
+}
+
+.accordionWrapper{
+    padding-block: 10px;
+    border-top: 1px solid var(--color-subtitle);
+}
+
+.accordionWrapper:first-child{
+    border-top: none;
+}

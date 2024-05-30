@@ -1,0 +1,20 @@
+.vl {
+    border: 1px solid var(--color-subtitle);
+    width: 0;
+    height: 200px;
+  }
+
+.aboutSectionWrapper{
+    margin-block: 100px;
+}
+.grid{
+    border-radius: 14px;
+}
+.grid:nth-child(odd){
+    background-color: var(--color-black);
+}
+
+.grid:nth-child(even){
+background-color: #2e2e2e;
+}
+
